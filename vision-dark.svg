@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 979.63 223.26">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#linear-gradient-2);
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 23px;
+      }
+
+      .cls-2 {
+        stroke: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: Inter24pt-Medium, 'Inter 24pt';
+        font-size: 180px;
+        font-weight: 500;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1.7" y1="92.93" x2="185.91" y2="92.93" gradientTransform="translate(93.19 -39.11) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ec008c"/>
+      <stop offset="1" stop-color="#ed1c24"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="92.1" x2="184.21" y2="92.1" gradientTransform="translate(92.1 -38.15) rotate(45)" xlink:href="#linear-gradient"/>
+  </defs>
+  <ellipse class="cls-2" cx="93.81" cy="92.93" rx="58.21" ry="97.98" transform="translate(-38.24 93.55) rotate(-45)"/>
+  <ellipse class="cls-1" cx="92.1" cy="92.1" rx="97.98" ry="58.21" transform="translate(-38.15 92.1) rotate(-45)"/>
+  <text class="cls-3" transform="translate(213.02 164.11)"><tspan x="0" y="0">Vision</tspan></text>
+</svg>
