@@ -1,2 +1,1 @@
-# Vision
-Discover a new way to command your code.
+<img align="left" src="./github-assets/vision-dark.svg#gh-dark-mode-only" alt="Vision">
