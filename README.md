@@ -13,6 +13,6 @@ Vision was built to be extensible, adaptable, and modular; add custom behaviors 
 
 To learn how to install and use Vision, see our [installation guide](www.roblox.com).
 
----
+## License
 
 Vision is licensed under the [MIT License](https://choosealicense.com/licenses/mit/), allowing you to freely use, modify, and distribute it in both personal and commercial projects. While credit is not required, it's always appreciated.
