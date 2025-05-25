@@ -12,3 +12,7 @@ Vision was built to be extensible, adaptable, and modular; add custom behaviors 
 > Vision is currently in active development. The API is subject to change, and you may encounter bugs or incomplete features. Use with caution in production environments.
 
 To learn how to install and use Vision, see our [installation guide](www.roblox.com).
+
+---
+
+Vision is licensed under the [MIT License](https://choosealicense.com/licenses/mit/), allowing you to freely use, modify, and distribute it in both personal and commercial projects. While credit is not required, it's always appreciated.
