@@ -1,8 +1,7 @@
-<img width="100%" style="height:auto;" src="./github-assets/vision-dark-theme.svg#gh-dark-mode-only" alt="Vision Logo">
+<img width="400" style="height:auto;" src="./github-assets/vision-dark-theme.svg#gh-dark-mode-only" alt="Vision Logo">
 
 ### Redefine how you interact with your code
 
-> [!WARNING]
 > Vision is currently in active development. The API is subject to change, and you may encounter bugs or incomplete features. Use with caution in production environments.
 
 **Vision** is a modern, lightweight command bar built for all  Roblox experiences—from massive, multiplayer games with dozens of developers, to small personal projects shared among friends. It’s designed to feel native, intuitive, and powerful right out of the box.
@@ -20,8 +19,6 @@ Vision was built to be:
 - 🔌 **Extensible** – Add your own behaviors and integrations without editing Vision itself
 - 🧠 **Adaptable** – Use it in a live game, testing experience, or studio
 - 🧩 **Modular** – Keep your code organized, scalable, and easy to maintain
-
----
 
 ### 📦 Installation
 
