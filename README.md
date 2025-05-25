@@ -6,23 +6,15 @@
 
 **Vision** is a modern, lightweight command bar built for all  Roblox experiences—from massive, multiplayer games with dozens of developers, to small personal projects shared among friends. It’s designed to feel native, intuitive, and powerful right out of the box.
 
-With Vision, you can easily build commands and mini-apps that:
-- Trigger server or client functions (or both!)
-- Open custom menus and interfaces
-- Reward players with in-game items or currency
-- Run admin or developer utilities
-- ...and much more
+With Vision, you can easily build commands and apps that trigger functions on the server and client, open custom menus, reward plaeyrs with coins, run admin or developer utilities, and so much more.
 
 You’ll enjoy a clean, readable API, full autocomplete support, flexible argument parsing, and built-in aliasing—giving both developers and power users the tools to move quickly and efficiently.
 
-Vision was built to be:
-- 🔌 **Extensible** – Add your own behaviors and integrations without editing Vision itself
-- 🧠 **Adaptable** – Use it in a live game, testing experience, or studio
-- 🧩 **Modular** – Keep your code organized, scalable, and easy to maintain
+Vision was built to be extensible, adaptable, and modular; add custom behaviors and integrations, use it in a live game, testing experience, or studio, and keep your code organized, scalabable, and maintanable.
 
-### 📦 Installation
+### Installation
 
-#### With Wally (Recommended)
+#### With Wally
 [Wally](https://github.com/UpliftGames/wally) is a modern package manager for Roblox Projects.
 
 1. Add Vision to your `wolly.toml` dependencies (e.g. `Vision = "blank/visual@1.0.0"`)
@@ -33,7 +25,7 @@ Vision was built to be:
 1. Download the `.rbxm` file from the our [Latest Releases] page.
 2. Drag the file into the viewport.
 
-### 🛠️ Getting Started
+### Getting Started
 
 #### Server Setup
 ```lua
