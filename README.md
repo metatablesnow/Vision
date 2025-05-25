@@ -1,14 +1,15 @@
-<img src="./github-assets/vision-dark-theme.svg#gh-dark-mode-only" alt="Vision" style="width: 400px; height: auto;">
+<p align="center">
+  <img width="400" height="auto" src="./github-assets/vision-dark-theme.svg#gh-dark-mode-only"
+</p>
 
-### Redefine how you interact with your code
+### *Redefine how you interact with your code*
 
-**Vision** is a sleek, modern command bar built for every Roblox experience.
+Vision is a lightweight, modern command bar built for every Roblox experience, whether it be an existing game with millions of players and hundreds of develoers, or a small passion project with you and your friends.
 
-With Vision, you can easily create commands and apps to trigger functions, open menus, reward players with coins, and much more. Enjoy support for aliases, arguments with autocomplete, and a clean, readable API.
+With Vision, you can easily create commands and apps to trigger functions, open menus, reward players with coins, and much more. Enjoy aliases, arguments, autocomplete, and a clean readable API. 
 
-Designed to be **extensible**, **adaptable**, and effortlessly integratable into your systems — Vision brings power and simplicity to your fingertips.
+Vision was designed to be extensible, adaptable, and effortlessly integratable into your systems.
 
 ---
 
-**Open and flexible** — Vision is licensed under the [MIT License](https://opensource.org/licenses/MIT), allowing you to freely use, modify, and distribute it in both personal and commercial projects.  
-While credit is not required, it’s always appreciated.
+**Open and flexible** — Vision is licensed under the [MIT License](https://choosealicense.com/licenses/mit/), allowing you to freely use, modify, and distribute it in both personal and commercial projects. While credit is not required, it’s always appreciated.
