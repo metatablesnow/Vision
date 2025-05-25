@@ -1,8 +1,8 @@
 <p align="center">
   <img width="400" height="auto" src="./github-assets/vision-dark-theme.svg#gh-dark-mode-only"
+    ### *Redefine how you interact with your code*
 </p>
-
-### *Redefine how you interact with your code*
+---
 
 Vision is a lightweight, modern command bar built for every Roblox experience, whether it be an existing game with millions of players and hundreds of develoers, or a small passion project with you and your friends.
 
