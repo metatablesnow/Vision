@@ -11,32 +11,32 @@ With Vision, you can easily build commands and apps that trigger functions on th
 Vision was built to be extensible, adaptable, and modular; add custom behaviors and integrations, use it in a live game, testing experience, or studio, and keep your code organized, scalabable, and maintanable.
 
 ## Features
-<div class="grid cards" markdown>
+div class="grid cards" markdown>
 
-- :octicons-zap-24:{ .lg .middle } __Modern, Lightweight__
+-   :material-feather:{ .lg .middle } __Modern, Lightweight__
 
-  ---
+    ---
 
-  This is a description
+    Visions user interface was thoughtfully designed to be both beatiful and efficient. Whether you're a first time user or an expert, the layout and intuitive navigation makes it easy for everyone.
 
-- :octicons-infinity-24:{ .lg .middle } __Extensible API__
+-   :material-expand-all:{ .lg .middle } __Extensible API__
 
-  ---
+    ---
 
-  This is a description
+    Vision has a extensible API for deveopers who want full control whithout the hassle. Whether youre adding custom commands, or integrating with external systems, the API provides flexibility and structure you need to expand                 functionality effortlessly.
 
-- :octicons-mortar-board-24:{ .lg .middle } __Built with Fusion__
+-   :material-library:{ .lg .middle } __Built with Fusion__
 
-  ---
+    ---
 
-  This is a description
+    Visions user interface is fully coded with Fusion for a fast, reliable, and optimized experience. Every element is designed to respond smoothly and efficiently, making interactions seamless.
 
-- :octicons-repo-24:{ .lg .middle } __Open Source, MIT__
+-   :material-open-source-initiative:{ .lg .middle } __Open Source, MIT__
 
-  ---
+    ---
 
-  This is a description
+    Vision is licensed under MIT License and available on [GitHub](https://github.com/metatablesnow/Vision). allowing you to freely use, modify, and distribute it in both personal and commercial projects. While credit is not required, it's always appreciated.
 
-</div>
+    [:octicons-arrow-right-24: License](https://github.com/metatablesnow/Vision/blob/main/LICENSE)
 
 </div>
