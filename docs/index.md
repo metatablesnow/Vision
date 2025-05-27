@@ -11,7 +11,7 @@ With Vision, you can easily build commands and apps that trigger functions on th
 Vision was built to be extensible, adaptable, and modular; add custom behaviors and integrations, use it in a live game, testing experience, or studio, and keep your code organized, scalabable, and maintanable.
 
 ## Features
-div class="grid cards" markdown>
+<div class="grid cards" markdown>
 
 -   :material-feather:{ .lg .middle } __Modern, Lightweight__
 
@@ -31,7 +31,7 @@ div class="grid cards" markdown>
 
     Visions user interface is fully coded with Fusion for a fast, reliable, and optimized experience. Every element is designed to respond smoothly and efficiently, making interactions seamless.
 
--   :material-open-source-initiative:{ .lg .middle } __Open Source, MIT__
+-   :material-github:{ .lg .middle } __Open Source, MIT__
 
     ---
 
