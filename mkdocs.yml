@@ -1,6 +1,6 @@
 site_name: Vision
 repo_name: metatablesnow/Vision
-site_url: http//metatablesnow.github.io/vision
+site_url: http://metatablesnow.github.io/vision
 repo_url: https://github.com/metatablesnow/Vision
 theme:
   name: material
