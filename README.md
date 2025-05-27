@@ -1,4 +1,5 @@
 <img width="400" style="height:auto;" src="./github-assets/vision-dark-theme.svg#gh-dark-mode-only" alt="Vision Logo">
+<img width="400" style="height:auto;" src="./github-assets/vision-light-theme.svg#gh-light-mode-only" alt="Vision Logo">
 
 ### Redefine how you interact with your code
 
