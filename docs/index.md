@@ -13,28 +13,30 @@ Vision was built to be extensible, adaptable, and modular; add custom behaviors 
 ## Features
 <div class="grid cards" markdown>
 
-- :material-zap:{ .lg .middle } __Modern, Lightweight__
+- :octicons-zap-24:{ .lg .middle } __Modern, Lightweight__
 
   ---
 
   This is a description
 
-- :material-infinity:{ .lg .middle } __Extensible API__
+- :octicons-infinity-24:{ .lg .middle } __Extensible API__
 
   ---
 
   This is a description
 
-- :material-school:{ .lg .middle } __Built with Fusion__
+- :octicons-mortar-board-24:{ .lg .middle } __Built with Fusion__
 
   ---
 
   This is a description
 
-- :material-code-tags:{ .lg .middle } __Open Source, MIT__
+- :octicons-repo-24:{ .lg .middle } __Open Source, MIT__
 
   ---
 
   This is a description
+
+</div>
 
 </div>
