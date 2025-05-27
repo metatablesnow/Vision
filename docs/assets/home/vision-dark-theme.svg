@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1027.63 223.26">
+  <!-- Generator: Adobe Illustrator 29.5.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 141)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        isolation: isolate;
+      }
+
+      .st2 {
+        stroke: url(#linear-gradient1);
+      }
+
+      .st2, .st3 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 23px;
+      }
+
+      .st3 {
+        stroke: url(#linear-gradient);
+      }
+
+      .st1 {
+        fill: #000001;
+        font-family: Inter24pt-Medium, 'Inter 24pt';
+        font-size: 180px;
+        font-weight: 500;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1.71" y1="133.07" x2="185.9" y2="133.07" gradientTransform="translate(-66.62 120.69) rotate(45) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ec008c"/>
+      <stop offset="1" stop-color="#ed1c24"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="0" y1="133.9" x2="184.2" y2="133.9" gradientTransform="translate(-67.71 121.66) rotate(45) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ec008c"/>
+      <stop offset="1" stop-color="#ed1c24"/>
+    </linearGradient>
+  </defs>
+  <ellipse class="st3" cx="93.81" cy="92.93" rx="58.21" ry="97.98" transform="translate(-38.23 93.55) rotate(-45)"/>
+  <ellipse class="st2" cx="92.1" cy="92.1" rx="97.98" ry="58.21" transform="translate(-38.15 92.1) rotate(-45)"/>
+  <g class="st0">
+    <text class="st1" transform="translate(261.02 164.11)"><tspan x="0" y="0">Vision</tspan></text>
+  </g>
+</svg>
