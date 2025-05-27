@@ -2,5 +2,13 @@ site_name: Vision
 repo_name: metatablesnow/Vision
 site_url: http://metatablesnow.github.io/vision
 repo_url: https://github.com/metatablesnow/Vision
+
 theme:
   name: material
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
