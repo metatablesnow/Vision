@@ -1,0 +1,42 @@
+.md-typeset a:link,
+.md-typeset a:visited,
+.md-typeset a:hover,
+.md-typeset a:active {
+  color: #ec0e59;
+}
+
+:root {
+  --md-primary-fg-color: var(--md-primary-fg-color);
+  --md-primary-fg-color--light: var(--fg-color);
+  --md-primary-fg-color--dark: var(--md-primary-fg-color);
+
+  --md-accent-fg-color: var(--md-primary-fg-color);
+  --md-accent-fg-color--light: var(--md-accent-fg-color);
+  --md-accent-fg-color--dark: var(--md-accent-fg-color);
+}
+
+.md-tabs__link {
+  color: #ec0e59 !important;
+}
+
+.md-tabs__link:hover,
+.md-tabs__link:focus,
+.md-tabs__link--active {
+  color: #ff4b8b !important; /* optional hover/active color */
+}
+
+/* "On this page" active link color */
+.md-nav__link--active {
+  color: #ec0e59 !important;
+}
+
+.md-header {
+  color: var(--md-accent-fg-color);
+
+  backdrop-filter: blur(10px);
+}
+
+.md-typeset h1,
+.md-typeset h2 {
+  font-weight: bold;
+}
