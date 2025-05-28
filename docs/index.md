@@ -8,35 +8,32 @@ Vision is a modern, lightweight command bar built for all Roblox experiences—f
 
 With Vision, you can easily build commands and apps that trigger functions on the server and client, open custom menus, reward players with coins, run admin or developer utilities, and so much more.
 
-Vision was built to be extensible, adaptable, and modular; add custom behaviors and integrations, use it in a live game, testing experience, or studio, and keep your code organized, scalabable, and maintanable.
+Vision was built to be extensible, adaptable, and modular; add custom behaviors and integrations, use it in a live game, testing experience, or studio, and keep your code organized, scalable, and maintainable.
 
 ## Features
 <div class="grid cards" markdown>
 
--   :material-feather:{ .lg .middle } __Modern, Lightweight__
+-   :fontawesome-solid-feather:&nbsp; __Modern, Lightweight__
 
     ---
 
-    Visions user interface was thoughtfully designed to be both beatiful and efficient. Whether you're a first time user or an expert, the layout and intuitive navigation makes it easy for everyone.
+    Visions user interface was thoughtfully designed to be both beautiful and efficient. Whether you're a first time user or an expert, the layout and intuitive navigation makes it easy for everyone.
 
--   :material-expand-all:{ .lg .middle } __Extensible API__
+-   :fontawesome-solid-truck-fast:&nbsp; __Extensible API__
 
     ---
 
-    Vision has a extensible API for deveopers who want full control whithout the hassle. Whether youre adding custom commands, or integrating with external systems, the API provides flexibility and structure you need to expand                 functionality effortlessly.
+    Vision has a extensible API for developers who want full control without the hassle. Whether you're adding custom commands, or integrating with external systems, the API provides flexibility and structure you need to expand functionality effortlessly.
 
--   :material-library:{ .lg .middle } __Built with Fusion__
+-   :fontawesome-solid-seedling:&nbsp; __Built with Fusion__
 
     ---
 
     Visions user interface is fully coded with Fusion for a fast, reliable, and optimized experience. Every element is designed to respond smoothly and efficiently, making interactions seamless.
 
--   :material-github:{ .lg .middle } __Open Source, MIT__
+-   :fontawesome-brands-github:&nbsp; __Open Source, MIT__
 
     ---
 
-    Vision is licensed under MIT License and available on [GitHub](https://github.com/metatablesnow/Vision). allowing you to freely use, modify, and distribute it in both personal and commercial projects. While credit is not required, it's always appreciated.
-
-    [:octicons-arrow-right-24: License](https://github.com/metatablesnow/Vision/blob/main/LICENSE)
-
+    Vision is available on [GitHub](https://github.com/metatablesnow/Vision) and licensed under the [MIT License](https://github.com/metatablesnow/Vision/blob/main/LICENSE). Allowing you to freely use, modify, and distribute it in both personal and commercial projects.
 </div>

@@ -5,10 +5,86 @@ repo_url: https://github.com/metatablesnow/Vision
 
 theme:
   name: material
+  logo: assets/vision-logo.svg
+  favicon: assets/vision-logo.svg
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: fontawesome/solid/moon
+        name: Dark Theme
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: fontawesome/solid/sun
+        name: Light Theme
+  font:
+    text: Inter
+    code: Fira Mono
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes
+    - content.action.edit
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+  language: en
+
+plugins:
+  - search
+  - tags:
+      tags_file: Tags.md
 
 markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+      title: On this page
   - attr_list
   - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+
+nav: 
+  - Home: index.md
+  - Guide:
+    - Guide: Guide/index.md
+    - Installing Vision: Guide/InstallingVision.md
+    - Commands: Guide/Commands.md
+
+extra:
+  version:
+    provider: mike
+  social:
+    - icon: fontawesome/brands/github
+      link: https://www.github.com/metatablesnow/vision
+    - icon: fontawesome/brands/x-twitter
+      link: https://www.x.com/metatablesnow
+    - icon: fontawesome/brands/discord
+      link: https://www.discord.com/users/716167589809750106
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@metatablesnow
+
+copyright: Copyright &copy; 2025 - 2025 metatablesnow
+
+extra_css:
+  - stylesheets/theme.css
